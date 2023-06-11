@@ -1,6 +1,6 @@
 # CO2 Emissions Analysis
 
-[Live notebook](https://www.jasdeepahluwalia.com/files/notebooks/co2_emission)
+View the live notebook [here](https://www.jasdeepahluwalia.com/files/notebooks/co2_emission)
 
 This repository contains a Jupyter Notebook written by [Jasdeep Ahluwalia](https://www.linkedin.com/in/jasdeep-ahluwalia/) and [Aarti Itikirala](https://www.linkedin.com/in/aarti-itikirala/) that analyzes vehicle CO2 emissions based on various features, such as engine size, number of cylinders, and fuel consumption. The goal of the analysis is to answer the research question:
 
